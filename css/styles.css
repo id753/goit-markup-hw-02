@@ -43,6 +43,9 @@ body {
   font-style: normal;
   text-decoration: none;
 }
+address {
+  font-style: normal;
+}
 .address-link:hover {
   font-weight: 400;
   font-size: 16px;
@@ -72,7 +75,7 @@ body {
   font-family: Roboto, sans-serif;
 }
 .hero-button:hover {
-  background: #404bbf;
+  background-color: #404bbf;
   cursor: pointer;
 }
 
@@ -102,7 +105,7 @@ body {
 }
 /*  */
 /* our team */
-team {
+.team {
   background: #f4f4fd;
 }
 .title {
